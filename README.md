@@ -1,15 +1,8 @@
-# Oi meu bem
-<html lang="pt-br">
-<head>
-    
-<title>❤️ Para Luiza ❤️</title>
-</head>
 
-<div class="pop-up">
-    <h1 class="text-muted">Oi meu bem</h1>
-    <div>Você deve estar pensando o que é isso? É só uma forma de tentar descrever um pouco do que eu sinto por você!</div>
-    <p></p><section class="text-center">
-        
+# Para o amor da minha vida
+## Oi meu bem,sei que você deve estar pensando o que é isso?
+ É só uma forma de tentar descrever um pouco do que eu sinto por você!
+   
 <button class="btn-vermelho btn-block" onclick="alert('Não tem nada de vírus ta.')">Pode começar a descer</button>
     </div>
  <div class="container d-flex justify-content-center">
@@ -21,36 +14,27 @@
         <p class="text-muted"><small>Antes de começar, confirme:</small>
             <br>
         <h1>Você conhece esta pessoa?</h1>
-       <p>
+    
 ![Julia](https://github.com/Juliacaetanodarosa/siteamor.io/assets/147684801/e7d29078-7956-46a1-b580-972d27b6ebb7)
 
-      
-       </script>
+      </script>
     <link rel="stylesheet" href="css/style.css" />
   </head>
 
-  <body>
-    <div class="imageBackground" id="backgroundImg"></button>
-       <p>
+  
 <button class="btn-vermelho btn-block" onclick="alert('Linda ne?')">Sim</button>
        <br>
        <button class="btn-vermelho btn-block" onclick="alert('Então você não deveria estar acessando este site. Vaza, mano!')">Não</button>
         <p><strong>Tem certeza?</strong><br> Olhe bem pra isso:</p>
-        <img src="https://github.com/Juliacaetanodarosa/juliadeveloper/blob/main/Julia.png.jpeg" class="custom" width="150" alt="">
-        <br>
+       ![WhatsApp Image 2023-10-13 at 23 17 22](https://github.com/Juliacaetanodarosa/siteamor.io/assets/147684801/d115d3d6-822f-4d8c-bf16-7f3f7a9f95bd)
+
         <button class="btn-vermelho btn-block" onclick="alert('Valeu mozão')">Sim, linda mesmo</button>
         <br>
         <button class="btn-block btn-vermelho" onclick="alert('Tudo bem, eu entendo sua vergonha.')"">Não, Deus me livre</button>
         <h2>Espera...</h2>
 
-        ![tela4](https://github.com/Juliacaetanodarosa/siteamor.io/assets/147684801/b9d24136-93ae-4ff8-b5a3-e20870876c4f)
+        ![tela4](https://github.com/Juliacaetanodarosa/siteamor.io/assets/147684801/c0394dbd-e5a7-406a-be6e-65eb11dd2e13)
 
-    <script
-      src="https://code.jquery.com/jquery-3.4.1.js"
-      integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
-      crossorigin="anonymous"
-    ></script>
-    <link rel="stylesheet" href="css/style.css" />
         <p>É a <strong>Luiza</strong> que está acessando essa página agora?
             <br><small class="text-muted" style="font-weight: 700;"></small>
         </p>
