@@ -1,1 +1,12 @@
 # siteamor
+![BAR](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/4c33b529-590b-47a6-85b4-21688a6f173c)
+![favoritas](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/0fddf711-0fe2-4c5e-82e4-20cf9fe33f5f)
+![foto](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/c0f308e8-4900-4233-877d-ac5c0b6d2c0b)
+![fundo45 png](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/ad6edd81-6b43-4f2f-8dc2-194a932b4dc8)
+![inta](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/0789683b-06b9-4d9b-bf0e-43c3c3b52460)
+![Julia png](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/3831c143-c879-4fcf-a72c-59b5eb8c06f3)
+![luiza1 png](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/383a9e98-5f0e-4659-8517-49aa5244636a)
+![mao](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/9b328034-0309-40bd-afb3-36265824682e)
+![tela4](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/6ac0ba3e-4c9a-400b-b064-340880422c30)
+![WhatsApp Image 2023-10-11 at 02 57 31](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/0284a848-1b81-4af8-b36a-e0a08a1143a6)
+![WhatsApp Image 2023-10-11 at 03 02 37](https://github.com/Juliacaetanodarosa/juliadeveloper/assets/147684801/233517de-619a-4b65-864f-4d4ff630ef56)
