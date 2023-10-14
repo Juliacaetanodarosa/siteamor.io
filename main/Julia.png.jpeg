@@ -1,0 +1,6 @@
+
+img = imread("main/Julia.png.jpeg", as_gray=True) # carregando imagem
+op_roberts = roberts(img)
+op_sobel = sobel(img)
+op_scharr = scharr(img)
+op_prewitt = prewitt(img)
