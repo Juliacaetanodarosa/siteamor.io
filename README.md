@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     
-    <title>❤️ Para Luiza ❤️</title>
+<title>❤️ Para Luiza ❤️</title>
 </head>
 
 <div class="pop-up">
@@ -10,7 +10,7 @@
     <div>Você deve estar pensando o que é isso? É só uma forma de tentar descrever um pouco do que eu sinto por você!</div>
     <p></p><section class="text-center">
         
-        <button class="btn-vermelho btn-block" onclick="alert('Não tem nada de vírus ta.')">Pode começar a descer</button>
+<button class="btn-vermelho btn-block" onclick="alert('Não tem nada de vírus ta.')">Pode começar a descer</button>
     </div>
  <div class="container d-flex justify-content-center">
     <div id="tela1" class="tela tela-centro visivel">
